@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n golem
+web: bin/hubot -a slack
