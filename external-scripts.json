@@ -1,3 +1,9 @@
 [
-  "hubot-plusplus"
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-help",
+  "hubot-maps",
+  "hubot-plusplus",
+  "hubot-youtube",
+  "hubot-redis-brain"
 ]
