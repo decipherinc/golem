@@ -20,6 +20,7 @@
     "hubot-slack": "^3.3.0",
     "hubot-youtube": "^0.1.2",
     "lodash": "^3.10.1",
+    "moment": "^2.10.6",
     "sandbox": "^0.8.6",
     "soupselect": "^0.2.0",
     "underscore": "^1.8.3",
