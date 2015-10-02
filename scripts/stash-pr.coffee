@@ -6,4 +6,4 @@ module.exports = (robot) ->
   robot.hear /PR\s*?#?\s*?(\d+?)/i, (res) ->
     pr = res.matches[1]
 
-    res.send 'PR ##{pr}: #{stashUrl}/projects/#{stashProjectId}/repos/#{stashRepoId}/pull-request/#{pr}/overview'
+    res.send "PR ##{pr}: #{stashUrl}/projects/#{stashProjectId}/repos/#{stashRepoId}/pull-request/#{pr}/overview"
